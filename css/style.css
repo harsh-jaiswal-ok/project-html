@@ -1,0 +1,11 @@
+h1{
+    font-size: 45px;
+    color: rgb(219, 19, 19);
+}
+.upper{
+    text-transform:uppercase;
+}
+
+.catp{
+    color: aqua;
+}
